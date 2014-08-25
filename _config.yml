@@ -7,4 +7,4 @@ disqus_shortname: 47degrees
 theme: themes.Theme$
 
 description: |
-  <p>A 47Degrees experimental blog</p>
+  <p>A <a href="http://www.47deg.com">47Degrees</a> test blog</p>
